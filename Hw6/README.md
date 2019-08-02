@@ -1,0 +1,1 @@
+﻿Lesson 6: Abstact class.
